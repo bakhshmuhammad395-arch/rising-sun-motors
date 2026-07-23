@@ -13,7 +13,7 @@ export default function Navbar() {
         {/* Logo */}
         <a href="#home" className="flex items-center">
           <Image
-            src="/images/logo.png"
+            src="/Images/logo.png"
             alt="Rising Sun Motors"
             width={250}
             height={80}

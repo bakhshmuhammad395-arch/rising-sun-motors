@@ -54,7 +54,7 @@ export default function FeaturedCars() {
               <div className="w-full h-[260px] rounded-2xl overflow-hidden shadow-2xl">
 
                 <img
-                  src={`/images/${car.image}`}
+                  src={`/Images/${car.image}`}
                   alt={car.name}
                   className={`w-full h-full ${car.imageClass} rounded-2xl`}
                 />

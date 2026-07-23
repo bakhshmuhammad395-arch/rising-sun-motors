@@ -30,16 +30,16 @@ export const metadata: Metadata = {
   ],
 
   icons: {
-    icon: "/images/logo.png",
-    shortcut: "/images/logo.png",
-    apple: "/images/logo.png",
+    icon: "/Images/logo.png",
+    shortcut: "/Images/logo.png",
+    apple: "/Images/logo.png",
   },
 
   openGraph: {
     title: "Rising Sun Motors",
     description:
       "Premium Japanese Car Exporters. Quality vehicles shipped worldwide.",
-    images: ["/images/logo.png"],
+    images: ["/Images/logo.png"],
     type: "website",
   },
 };
